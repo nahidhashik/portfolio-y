@@ -11,6 +11,7 @@ body{
     border: 5px solid red;
     margin: 5px;
     padding: 15px;
+    margin-bottom: 100px;
 }
 
 .header1{
@@ -41,4 +42,79 @@ body{
 
 
    
+}
+
+.second-div{
+
+
+    display: flex;
+    padding: 50px;
+    border: 5px solid grey;
+
+}
+
+.another{
+
+   padding-left: 20px;
+}
+.button{
+
+    background-image: linear-gradient(orange, red);
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.box-shadow{
+
+    display: flex;
+    padding: 5px;
+    
+   
+   
+}
+
+.baton{
+
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    padding: 5px;
+}
+
+.buton{
+
+    text-decoration: none;
+    background-image: linear-gradient(blue, red);
+    padding: 5px;
+}
+
+.boxdiv-one{
+
+    padding-right: 15px;
+    
+}
+
+.boxdiv-two{
+
+
+    padding-right: 15px;
+    
+}
+
+.box-box{
+    margin-left: 5%;
+    margin-left: 5%;
+
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+
+    box-shadow: 10px 10px 40px red;
+    width: 40%;
+}
+
+.center{
+
+    text-align: center;
 }
